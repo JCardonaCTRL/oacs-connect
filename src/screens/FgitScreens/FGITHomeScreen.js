@@ -244,7 +244,7 @@ const FGITHomeScreen = (props) => {
               showFullscreenButton
               allowsFullscreenVideo
               ref={playerRef}
-              apiKey="AIzaSyCu3OTry4IvXmOYidpaZoeDU_j6DjOvHEs"
+              apiKey=""
               videoId={activeVideoId}
               origin="http://www.youtube.com"
               play={false}
